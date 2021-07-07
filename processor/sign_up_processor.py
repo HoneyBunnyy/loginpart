@@ -3,6 +3,7 @@ import hashlib
 from PyQt5.QtGui import *
 from PyQt5.QtCore import *
 from PyQt5.QtSql import *
+from PyQt5.QtWidgets import *
 from ui.sign_up import Ui_sign_up
 
 class sign_up_processor(Ui_sign_up):

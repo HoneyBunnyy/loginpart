@@ -98,7 +98,7 @@
      <enum>QLineEdit::Password</enum>
     </property>
    </widget>
-   <widget class="QLineEdit" name="user_lineEdit">
+   <widget class="QLineEdit" name="workid_lineEdit">
     <property name="geometry">
      <rect>
       <x>490</x>
